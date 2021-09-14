@@ -1,7 +1,8 @@
 # Elite_Olympics_Data_Analysis
 
 
-This assignment-Data Analysis on Olympic database, retrieval process will speed up and be able to generate immediate results and detailed reports.
+In this assignment-Data Analysis on Olympic database, retrieval process will speed up and be able to generate immediate results and detailed reports.
+
 The analysis are made for following questions :
 
 1. In how many cities Summer Olympics is held so far?
